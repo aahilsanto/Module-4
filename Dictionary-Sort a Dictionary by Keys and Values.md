@@ -46,7 +46,7 @@ for i in l:
 
 ## Sample Output
 
-![image](https://github.com/user-attachments/assets/a52326bc-3d12-4012-a4cf-d4fd17569e7f)
+![image](https://github.com/user-attachments/assets/b1d7cc6d-72a0-473f-adea-59436601c4bb)
 
 ## Result
 
