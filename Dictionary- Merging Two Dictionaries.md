@@ -26,7 +26,7 @@ print(dict3)
 
 ## Output
 
-![439310420-e8333efb-3f5c-488e-bca7-cb30b9252da2](https://github.com/user-attachments/assets/84afbaba-9e6d-419d-9e4b-3c2a7ddcce35)
+![image](https://github.com/user-attachments/assets/11bf89e6-58ae-42c9-b151-39b83741ab95)
 
 ## Result
 
